@@ -23,9 +23,7 @@ A web platform that connects consultants with students, parents, and organizatio
 ## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript (React.js)
-- **Backend:** Node.js, Express.js
+- **Backend:** Springboot
 - **Database:** MongoDB
-- **Authentication:** JWT
-- **Deployment:** Heroku or AWS
 
 
